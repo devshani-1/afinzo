@@ -1,0 +1,6 @@
+{
+  "name": "Affinzo",
+  "description": "Know what things will actually cost you. Affinzo helps you look beyond sticker prices to understand real monthly cash flow and affordability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
